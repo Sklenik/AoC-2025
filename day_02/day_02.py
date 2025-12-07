@@ -53,3 +53,5 @@ def main():
     print(f'Part 2: {totalpart2}')
 
 main()
+
+f.close();
